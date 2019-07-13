@@ -1,0 +1,10 @@
+
+Broj: 000000003
+Datum: 13.6.2016.
+------------------------------
+Artikal 	 Cijena 	 Kolicina
+Cokolada 	 1.23 	 5
+Cappy 	 2.1 	 10
+Cigarete 	 2.23 	 7
+------------------------------
+Ukupan iznos: 42
