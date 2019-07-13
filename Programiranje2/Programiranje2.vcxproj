@@ -156,7 +156,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Artikli.cpp" />
-    <ClCompile Include="Ekspanzija.cpp" />
+    <ClCompile Include="EkspanzijaNizova.cpp" />
     <ClCompile Include="KaratePojas.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

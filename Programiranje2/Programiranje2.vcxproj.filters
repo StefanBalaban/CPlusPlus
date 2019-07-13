@@ -26,10 +26,10 @@
     <ClCompile Include="Artikli.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Ekspanzija.cpp">
+    <ClCompile Include="KaratePojas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="KaratePojas.cpp">
+    <ClCompile Include="EkspanzijaNizova.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
